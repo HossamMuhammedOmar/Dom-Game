@@ -126,6 +126,7 @@ body {
 
 .player-current-score {
   font-size: 30px;
+  cursor: context-menu;
 }
 
 button {
